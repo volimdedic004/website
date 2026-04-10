@@ -115,6 +115,6 @@ I originally made this song only with an acoustic piano part and my vocals just 
 ![Graduation](/website/assets/img/Graduation.JPEG){: .mx-auto.d-block :}
 
 ### 18 - **RESOLUTION**
-I had Zack Haney do vocals for both this track and "EXPOSITION" at the same time, because if you loop these two skits together they transition perfectly together; I released the instrumental version where I start it with this track so this can be heard. I see this track as a new beginning to a new life, but that new life requires a reflection of the old which is exactly why I loop it back to the start.
+I had Zack Haney do vocals for both this track and "EXPOSITION" at the same time, because if you loop these two skits together they transition perfectly together; I released the [instrumental version](https://open.spotify.com/album/60pyJpGRi5AoJKPqQxBYHv) where I start it with this track so this can be heard. I see this track as a new beginning to a new life, but that new life requires a reflection of the old which is exactly why I loop it back to the start.
 
 BYESON is definitely one of those one-time listen albums that I would personally never blast in a car or play while I work, but it serves as a nice permanent capsule of my high school life for me to grow off of. Nevertheless, I am proud of the nine months I put into creating this 66 minute long album, and I do not intend on stopping here, cause we are just getting started.
