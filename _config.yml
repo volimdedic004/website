@@ -82,7 +82,6 @@ social-network-links:
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
-rss-description: This website is a virtual proof that I'm awesome
 
 ###########################
 # --- General options --- #
@@ -90,15 +89,14 @@ rss-description: This website is a virtual proof that I'm awesome
 
 # Select which social network share links to show in posts
 share-links-active:
-  twitter: true
-  facebook: true
-  linkedin: true
+  twitter: false
+  facebook: false
+  linkedin: false
   vk: false
   reddit: false
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
 
 # Add the website title to the title of every page
 title-on-all-pages: true
@@ -139,9 +137,9 @@ hover-col: "#1e2e33"
 navbar-col: "#1e2e33"
 navbar-text-col: "#31b676"
 navbar-border-col: "#31b676"
-footer-col: "#1e2e33"
-footer-text-col: "#31b676"
-footer-link-col: "#31b676"
+footer-col: "#0d1117"
+footer-text-col: "#0d1117"
+footer-link-col: "#0d1117"
 footer-hover-col: "#31b676"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
