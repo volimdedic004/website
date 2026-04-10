@@ -110,6 +110,8 @@ The self-titled track contains references to all fifteen prior tracks, with the 
 **But we'll be back...**
 I originally made this song only with an acoustic piano part and my vocals just to perform at my Senior Renaissance show, but decided to make a full studio version and add it to BYESON after a lot of people praised it. Just one final goodbye and final reflection that I love to look back on as I performed this the day before my graduation ceremony. Yes, someone did vandalize the bison statue outside our high school; and yes, I did actually state my phone number during the live performance, but I had to remove it for obvious reasons.
 
+![Graduation](/website/assets/img/Graduation.JPEG){: .mx-auto.d-block :}
+
 ### 18 - **RESOLUTION**
 I had Zack Haney do vocals for both this track and "EXPOSITION" at the same time, because if you loop these two skits together they transition perfectly together; I released the instrumental version where I start it with this track so this can be heard. I see this track as a new beginning to a new life, but that new life requires a reflection of the old which is exactly why I loop it back to the start.
 
