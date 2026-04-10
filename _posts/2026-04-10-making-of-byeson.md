@@ -60,13 +60,19 @@ A little song on an observation I noticed throughout my time at CHS. It always k
 **I just thought I would let you know, I'm lettin' it go**
 This song combines two elements, moving on from relationships, and moving on from Celsius energy drinks, only one of which I have successfully done (Celsius keeps me SANE). I intentionally put this track after "DEPENDENCY" to serve as a transition from a "oh I got rejected" to a "screw it" mentality, because essentially the person of interest and a can of Celsius can be treated the same in this track when trying to let either one go in my life. This track has a very quick sample of "Demolition Inevitable" which is a track from the game "Five Nights At Freddy's: Sister Location"; something to note is that this track plays when it is revealed that "Springtrap," a rotting corpse inside an animatronic suit, is still alive, which I used as a metaphor of how I too would rot if I were to continue my Celsius addiction. This song explains itself pretty well with overcoming addiction and all, so much so that I ended up performing it at the January 2025 Coffeehouse show with people only really understanding the Celsius perspective. I just wanted to clarify that it is NOT the only perspective of this song and I kept it hidden during the performance.
 
+![Coffeehouse](/website/assets/img/Coffeehouse.JPEG){: .mx-auto.d-block :}
+
 ### 8 - **LIGHT BLITZ**
 **You can make something you hate into something great**
 No complicated backstory, no relationship struggles, just simple song about waking up the morning. I used to hate waking up at 6:05AM every morning to get to CHS on time, it was honestly the only part of high school I really did not enjoy, so making a song about it was my best way of coping at the time. Notice the light reference once more, this was the first original track I performed at Coffeehouse and the first track I wrote lyrics for PERIOD, so it really served as the baseline for all my other tracks to connect the light theme together. I mention the phrase "Soy Ploy" in this track, which refers to the name of the first band I performed with in Coffeehouse that really got me into it in the first place. I also released this track as my first single before releasing BYESON (the cover is at a cabin a couple close friends and I stayed at during a trip after graduation in Vermont).
 
+![LightBlitz](/website/assets/img/LightBlitz.png){: .mx-auto.d-block :}
+
 ### 9 - **SUMMER TWILIGHT**
 **Don't know what life's about but I need to figure out**
 My third and final track about relationships, this one in particular about a breakup. I actually wrote this track the same night it happened as I was still out on vacation in the Outer Banks, and it served as a reflection for my current self to also look back on and see who I was and how much I've taken out of previous mistakes to do better. The "Twilight" in this case is just a representation of downward decline, and a desire to do better and be better out of the experience. This was my second and final single before releasing BYESON (the cover is of the shore of the Atlantic at Outer Banks where I wrote the lyrics).
+
+![SummerTwilight](/website/assets/img/SummerTwilight.png){: .mx-auto.d-block :}
 
 ### 10 - **BOOMIN''20S**
 **Proved boomin' '20s was really a scam**
@@ -79,6 +85,8 @@ My personal favorite track on BYESON. I wanted to give a little homage to Coffee
 ### 12 - **DRAGONS**
 **Ambition is a Dragon too**
 The song that really sparked my ambition for starting to make what would become BYESON, as this was the first song I produced. It really follows the idea that ambition is a great thing to follow, but it can also become overwhelming very quickly and lead to burnouts. That mostly came from the fact that I was in at least a dozen clubs during my senior year, so a burnout was inevitable. This track samples Kanye West's unreleased (and hopefully will never release) song "Never See Me Again" in the chorus, the guitar riff from "Where The Light Is" by Surfaces, and "menu-in-game version" by nicopatty during the bridge. That bridge is what inspired the whole dragon theme, because it really did feel like a Dungeons and Dragons fantasy theme that my bandmates noticed, so much so that we performed this song under the alias "D&D" (Daris & the Dragons). When first producing BYESON, I honestly considering naming the album "DRAGONS," and the cover was going to be an illustration of a depressed dragon sipping on Celsius, but that ultimately faded over time with all the other tracks.
+
+![DnD](/website/assets/img/DnD.JPEG){: .mx-auto.d-block :}
 
 ### 13 - **EXTROVERSION**
 **Still feel alone, but you already know**
