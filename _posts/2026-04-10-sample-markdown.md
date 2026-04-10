@@ -1,13 +1,11 @@
 ---
 layout: post
-title: Sample blog post to learn markdown tips
-subtitle: There's lots to learn!
-gh-repo: daattali/beautiful-jekyll
-gh-badge: [star, fork, follow]
-tags: [test]
-comments: true
-mathjax: true
-author: Bill Smith
+title: Biklo
+subtitle: How a Bike Got me into GWU
+cover-img:
+thumbnail-img:
+tags: [biking]
+author: Daris Dedic
 ---
 
 {: .box-success}
