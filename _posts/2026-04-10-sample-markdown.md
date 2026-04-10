@@ -2,8 +2,7 @@
 layout: post
 title: Biklo
 subtitle: How a Bike Got me into GWU
-cover-img:
-thumbnail-img:
+thumbnail-img: /assets/img/Biklo.png
 tags: [biking]
 author: Daris Dedic
 ---
