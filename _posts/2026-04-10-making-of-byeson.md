@@ -98,7 +98,7 @@ I had to look up the word "Extroversion" for this song, but essentially it is an
 
 ### 14 - **FREE-TIME**
 **Don't know if its worth living? Just try its the key**
-This track was made with the prediction that I would lack the free-time during college to make more music, and for the most part that has been true; it also references all the time I put into doing scholarship applications, thus the lack of free-time to really enjoy going out with people and enjoying final moments for the time. A very straightforward track with really good production, it just lacks the vocals (they are ROUGH) I hoped for and I rushed it for sure. I included a quote at the end: "We are the music makers, And we are the dreamers of the dreams" from Arthur O'Shaughnessy mostly just because I thought it fit the idea of the power of musicians with ideology.
+This track was made with the prediction that I would lack the free-time during college to make more music, and for the most part that has been true; it also references all the time I put into doing scholarship applications, thus the lack of free-time to really enjoy going out with people and enjoying final moments during senior year. A very straightforward track with really good production, it just lacks the vocals (they are ROUGH) I hoped for and I rushed it for sure. I included a quote at the end: "We are the music makers, And we are the dreamers of the dreams" from Arthur O'Shaughnessy mostly just because I thought it fit the idea of the power of musicians with ideology.
 
 ### 15 - **TRAPPED**
 **Stuck with this heritage, whether I like it or not**
