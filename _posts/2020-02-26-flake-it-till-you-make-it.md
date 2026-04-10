@@ -2,9 +2,9 @@
 layout: post
 title: BYESON
 subtitle: Behind Making an Album
-cover-img: /assets/img/path.jpg
+cover-img: /assets/img/Background.jpg
 thumbnail-img: /assets/img/BYESON.png
-share-img: /assets/img/path.jpg
+share-img: /assets/img/Background.jpg
 tags: [music, producing]
 author: Daris Dedic
 ---
