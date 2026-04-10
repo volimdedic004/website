@@ -66,7 +66,8 @@ This song combines two elements: moving on from relationships, and moving on fro
 **You can make something you hate into something great**
 No complicated backstory, no relationship struggles, just simple song about waking up the morning. I used to hate waking up at 6:05AM every morning to get to CHS on time, it was honestly the only part of high school I really did not enjoy, so making a song about it was my best way of coping at the time. Notice the light reference once more, this was the first original track I performed at Coffeehouse and the first track I wrote lyrics for PERIOD, so it really served as the baseline for all my other tracks to connect the light theme together. I mention the phrase "Soy Ploy" in this track, which refers to the name of the first band I performed with in Coffeehouse that really got me into it in the first place. I also released this track as my first single before releasing BYESON (the cover is at a cabin a couple close friends and I stayed at during a trip after graduation in Vermont).
 
-![SoyPloy](/website/assets/img/SoyPloy.png){: .mx-auto.d-block :}
+![SoyPloy](/website/assets/img/SoyPloy.JPEG){: .mx-auto.d-block :}
+
 ![LightBlitz](/website/assets/img/LightBlitz.png){: .mx-auto.d-block :}
 
 ### 9 - **SUMMER TWILIGHT**
