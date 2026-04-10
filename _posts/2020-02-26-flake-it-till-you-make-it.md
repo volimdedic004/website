@@ -23,5 +23,4 @@ When it came to brainstorming ideas for each individual track, most came with ti
 ![BYESON](/assets/img/BYESON.jpg)
 ![BYESON]({{ '/assets/img/BYESON.jpg' | relative_url }})
 
-
 ## BYESON's Tracklist
