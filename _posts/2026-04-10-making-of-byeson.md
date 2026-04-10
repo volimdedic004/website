@@ -100,7 +100,7 @@ This track was made with the prediction that I would lack the free-time during c
 
 ### 15 - **TRAPPED**
 **Stuck with this heritage, whether I like it or not**
-I wanted to make a track that focused on my Bosnian roots, and this was my attempt at doing so. I reference the Sebrenica Genocide and some aspects of growing up with Bosnian culture and living up to what my family had to go through, but I think the delivery could had been better since this track has very little lyrics, and when there are lyrics they are performed and mastered ROUGHLY. I also include a semi-poorly implemented clock chime at the end that was supposed to be a sample of my grandparent's wedding clock, but I was never able to get that original audio into the track and it still annoys me to this day. I may redo the idea of this track in the future because I honestly consider it to be the worst track on BYESON.
+I wanted to make a track that focused on my Bosnian roots, and this was my attempt at doing so. I reference the Srebrenica Genocide and some aspects of growing up with Bosnian culture and living up to what my family had to go through, but I think the delivery could had been better since this track has very little lyrics, and when there are lyrics they are performed and mastered ROUGHLY. I also include a semi-poorly implemented clock chime at the end that was supposed to be a sample of my grandparent's wedding clock, but I was never able to get that original audio into the track and it still annoys me to this day. I may redo the idea of this track in the future because I honestly consider it to be the worst track on BYESON.
 
 ### 16 - **BYESON**
 **BYE-SON, you stand out of crowds made mommy proud**
