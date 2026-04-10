@@ -36,3 +36,6 @@ During my sophomore year, I had an physics teacher who taught Aerospace Engineer
 Two fun facts about this track:
 - Three people who were in this aerospace class are in jail now, I'll let you decide who one of them is.
 - Current teachers reached out to me months after BYESON's release to say that this was their favorite track
+
+### 4 - **BIKLO (INTERLUDE)**
+A simple interlude that transitions from URBAN to BIKLO. I really wanted to see how far I could go with my music abilities without much lyrical input, I'd say I did a pretty good job at that.
