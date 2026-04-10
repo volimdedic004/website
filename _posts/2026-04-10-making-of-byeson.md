@@ -19,7 +19,7 @@ The origins of BYESON started while I was still performing original songs at Car
 
 When it came to brainstorming ideas for each individual track, most came with time of observation, as BYESON draws heavily off of my life experiences during my senior year at Carlisle High School. Taking it literally into the heart and soul of Cumberland Valley, I had two of my friends drive me out during August 2025 into the middle of a cornfield to take the photo that became the album cover for BYESON.
 
-![BYESON](/website/assets/img/BYESON.png)
+![BYESON](/website/assets/img/BYESON.png){: .mx-auto.d-block :}
 
 I highly encourage you listen to BYESON before or while reading this article to get a better idea of what I was trying to create:
 [Stream BYESON on Spotify](https://open.spotify.com/album/6i8A6kzyhTGEMJYWoLsv0H)
