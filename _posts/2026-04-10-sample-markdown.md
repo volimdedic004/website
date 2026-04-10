@@ -2,94 +2,27 @@
 layout: post
 title: Biklo
 subtitle: How a Bike Got me into GWU
-thumbnail-img: /assets/img/Biklo.png
 tags: [biking]
 author: Daris Dedic
 ---
 
-{: .box-success}
-This is a demo post to show you how to write blog posts with markdown.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](https://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/tables/etc.<br/>I also encourage you to look at the [code that created this post](https://raw.githubusercontent.com/daattali/beautiful-jekyll/master/_posts/2020-02-28-sample-markdown.md) to learn some more advanced tips about using markdown in Beautiful Jekyll.
+"Biklo," the name I gave to my bycicle, is who I believe really initiated my ability to appeal to universities like George Washington University all thanks to the common application essay I wrote all about it. Below is the common essay in its entirety:
 
-**Here is some bold text**
+## My Common Application Essay:
 
-## Here is a secondary heading
+*My father bought my mountain bike off of Facebook Marketplace because it was a bargain. I hadn't asked for a bike and was probably underwhelmed when he gave it to me. Its creaking coil shock and occasional chain detachments showed signs of abuse as did the engravings on its frame: "funhouseDVD.com EXTREME VIDEOS." This bike had been ridden hard; it had seen a lot, and it was tired. I named him "Biklo" in honor of my Bosnian roots and all those who had survived the war. Like them, Biklo came out of his traumatic events resilient and reliable.*
+*At first, I never saw Biklo as more than another way to exercise, but as he accompanied me on more and longer rides, I learned that there was a lot he could teach me. His gear shifts expanded my ability to bike out of town and into the countryside instead of repetitive circles around the same local park, and I started expanding my routes into unfamiliar but beautiful scenery. I've lived in the shadows of the Appalachians my entire life, but with Biklo, I experienced the natural beauty of south central Pennsylvania more immersively than from the window of a car and more expansively than on any walk. With such fascinating surroundings now available to me, I grew increasingly unsatisfied with cycling through the old ones and found myself planning out longer and more strenuous routes for Biklo and I to explore.*
+*Striving for a challenge, I used Google Earth to plot a fifty mile journey around the entirety of my county including three personal landmarks: houses of family and friends. I titled my route "3-Way Pain," and pain was no understatement; this ride would be our most difficult one yet with hill-covered terrain, ninety-five degree weather, and high humidity. One of the things that made it so difficult was planning all the supplies I would need to bring wtih me for such a long trip - the optimal amount of gear and fuel (water) to balance out all that weight. I imagined Biklo was my personal rocket ship, taking me as far out into space and back as he could go, and as the pilot, I had to make sure we were both prepared for our eleven hour flight.*
 
-[This is a link to a different site](https://deanattali.com/) and [this is a link to a section inside this page](#local-urls).
+![BikeRoutes](/website/assets/img/BikeRoutes.JPEG){: .mx-auto.d-block :}
 
-Here's a table:
+*One week later, feeling confident, Biklo and I set out in pursuit of our goal, and we were determined to finish it. Two landmarks in, it was all smooth sailing until the final two miles when we rode past a "Fresh Oil and Chips" sign that would prove fatal to Biklo. I started to hear popcorn noises within a minute on the hazardous road, and upon inspection, I realized that his back tire had popped - Biklo had broken one of his legs. I was crushed and unsure what to do next. I could call for helpl, or risk Biklo's health to push him on foot to our final landmark and complete the mission. I chose to move forward, but as I shuffled along in frustration, my concerns were more focused on him - his tire was essentially off his frame, and that could damage him permanently. Almost an hour later we accomplished the goal, but Biklo would never be the same again.*
 
-| Number | Next number | Previous number |
-| :------ |:--- | :--- |
-| Five | Six | Four |
-| Ten | Eleven | Nine |
-| Seven | Eight | Six |
-| Two | Three | One |
+![FlatTire](/website/assets/img/FlatTire.JPEG){: .mx-auto.d-block :}
 
-You can use [MathJax](https://www.mathjax.org/) to write LaTeX expressions. For example:
-When \\(a \ne 0\\), there are two solutions to \\(ax^2 + bx + c = 0\\) and they are $$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.$$
+*That bike ride changed my perception of biking from a simple hobby to potential expeditions that put me out in an environment without help or guidance. There are factors that are unavoidable on the path to success - Biklo's injury was no exception - but I am okay with that. Upon my return home, I immediately ordered new tires and parts to repair him, but the quality and reliability of his old parts could never be matched. I always mistakenly believed that I narrowly reached my goal, but in actuality, Biklo narrowly reached the goal; I was perfectly capable of doing it.*
 
-How about a yummy crepe?
-
-![Crepe](https://beautifuljekyll.com/assets/img/crepe.jpg)
-
-It can also be centered!
-
-![Crepe](https://beautifuljekyll.com/assets/img/crepe.jpg){: .mx-auto.d-block :}
-
-Here's a code chunk:
-
-~~~
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-~~~
-
-And here is the same code with syntax highlighting:
-
-```javascript
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-```
-
-And here is the same code yet again but with line numbers:
-
-{% highlight javascript linenos %}
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-{% endhighlight %}
-
-## Boxes
-You can add notification, warning and error boxes like this:
-
-### Notification
-
-{: .box-note}
-**Note:** This is a notification box.
-
-### Warning
-
-{: .box-warning}
-**Warning:** This is a warning box.
-
-### Error
-
-{: .box-error}
-**Error:** This is an error box.
-
-## Local URLs in project sites {#local-urls}
-
-When hosting a *project site* on GitHub Pages (for example, `https://USERNAME.github.io/MyProject`), URLs that begin with `/` and refer to local files may not work correctly due to how the root URL (`/`) is interpreted by GitHub Pages. You can read more about it [in the FAQ](https://beautifuljekyll.com/faq/#links-in-project-page). To demonstrate the issue, the following local image will be broken **if your site is a project site:**
-
-![Crepe](/assets/img/crepe.jpg)
-
-If the above image is broken, then you'll need to follow the instructions [in the FAQ](https://beautifuljekyll.com/faq/#links-in-project-page). Here is proof that it can be fixed:
-
-![Crepe]({{ '/assets/img/crepe.jpg' | relative_url }})
+![Biklo](/website/assets/img/Biklo.JPEG){: .mx-auto.d-block :}
 
 <details markdown="1">
 <summary>Click here!</summary>
