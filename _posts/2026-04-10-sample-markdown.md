@@ -23,8 +23,3 @@ author: Daris Dedic
 *That bike ride changed my perception of biking from a simple hobby to potential expeditions that put me out in an environment without help or guidance. There are factors that are unavoidable on the path to success - Biklo's injury was no exception - but I am okay with that. Upon my return home, I immediately ordered new tires and parts to repair him, but the quality and reliability of his old parts could never be matched. I always mistakenly believed that I narrowly reached my goal, but in actuality, Biklo narrowly reached the goal; I was perfectly capable of doing it.*
 
 ![Biklo](/website/assets/img/Biklo.JPEG){: .mx-auto.d-block :}
-
-<details markdown="1">
-<summary>Click here!</summary>
-Here you can see an **expandable** section
-</details>
